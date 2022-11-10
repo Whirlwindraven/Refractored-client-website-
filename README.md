@@ -9,3 +9,10 @@ In this project I had to create adjustments to the html file as well as the css 
 # Preview Screenshot 
 Sample of the site is found in the screenshot below 
 ![Screenshot-of-website](./Assets/Refractored-client-%20website%20screenshot.png "Website-Screenshot")
+
+# Credits
+N/A
+
+# Liscense 
+Please refer to liscense in repo
+
