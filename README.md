@@ -10,6 +10,10 @@ To acess the refractored site pleas click [here](https://whirlwindraven.github.i
 Sample of the site is found in the screenshot below 
 ![Screenshot-of-website](./Assets/Refractored-client-%20website%20screenshot.png "Website-Screenshot")
 
+# Authors
+edX bootcamps LLC
+Fady Khalil 
+
 # Credits
 N/A
 
