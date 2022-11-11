@@ -12,7 +12,9 @@ Sample of the site is found in the screenshot below
 
 # Authors
 edX bootcamps LLC
+
 Fady Khalil 
+
 
 # Credits
 N/A
