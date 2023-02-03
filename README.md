@@ -8,7 +8,7 @@ To acess the refractored site pleas click [here](https://whirlwindraven.github.i
 
 ## Preview Screenshot 
 Sample of the site is found in the screenshot below 
-![Screenshot-of-website](./Assets/Refractored-client-%20website%20screenshot.png "Website-Screenshot")
+![Screenshot-of-website](./Assets/images/Refractored-client-%20website%20screenshot.png "Website-Screenshot")
 
 ## Authors
 edX bootcamps LLC<br>
